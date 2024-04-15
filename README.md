@@ -1,12 +1,12 @@
-# Agus_Portfolio
+# Portfolio
 Data portfolio
 
-# U.S. Census Data Analysis: Insights into Income and Demographics
+# Project 1: U.S. Census Data Analysis: Insights into Income and Demographics
 
 ## Project Overview
 In this project, I performed comprehensive data cleaning, analysis, and visualization on U.S. Census data. The goal was to uncover insights into the relationships between average income and demographic factors such as the proportion of women in each state.
 
-## Key Tasks and Responsibilities
+## Key Tasks
 
 - **Data Inspection and Visualization**
   - Created initial visualizations to understand the distribution of data, focusing on the relationship between average income and the proportion of women per state.
